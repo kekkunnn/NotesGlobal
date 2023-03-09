@@ -4,6 +4,7 @@ import { Router } from '@solidjs/router'
 
 
 import './index.css'
+import './components/Nav.css'
 import App from './App'
 
 render(() =>

@@ -1,0 +1,16 @@
+.navBtn {
+    padding: 10px;
+}
+
+.navBtn:hover {
+    border-radius: 12px;
+    background-color: slategray;
+    color: aliceblue;
+}
+
+.btnAct{
+    color: white;
+}
+
+
+
